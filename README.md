@@ -1,5 +1,7 @@
 # Bigram-language-model-with-varient-smoothing
 
+unzip the file ```data``` first, and put the folder back to its origin position. 
+
 To see the evaluation of the model, you can either run ```tester.py``` or the shell script ```run``` by changing the parameter of the model. 
 
 The evaluation shows the perplexity on the training and test set. 
